@@ -32,4 +32,4 @@ Notes
 Keep the dataset updated to see the latest insights in the dashboard.
 Ensure macros are enabled if using any automated calculations or charts.
 
-⚠️ Note: The dashboard file is too large to preview on GitHub. Please download `dashboards/Ecommerce_Dashboard.xlsx` to view the full interactive dashboard in Excel.
+⚠️ Note: The dashboard file is too large to preview on GitHub. Please download `dashboards/Ecommerce_Dashboard.xlsx` to view the full interactive dashboard in Excel. >>>>>>> Download ZIP
